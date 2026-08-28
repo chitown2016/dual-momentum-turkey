@@ -54,8 +54,14 @@ def dual_momentum_weights(prices_weekly, lookback, n_select,
                     str           -> that sleeve, always (Version B: 'SHY')
                     (a, b)        -> two-way hatch (Version A): whichever of
                                      the two sleeves has higher RoC over
-                                     `hatch_lookback` weeks (nominal signal
-                                     currency — SPEC 2 canonical rule).
+                                     `hatch_lookback` weeks. Computed on the
+                                     same nominal-TL series as every other
+                                     signal, per SPEC 2. (SPEC 4 says "real
+                                     TL" for this comparison; the two are
+                                     equivalent — a shared deflator cancels
+                                     out of a two-way ranking — and SPEC 2
+                                     is the operative wording, pinned before
+                                     implementation: see STUDY_LOG.md.)
     single_country_group : list of sleeve names of which at most ONE may be
                     held at a time (SPEC 6 rule 2, EM gate). Applied within
                     this sub-strategy's top-N, before blending (pinned in
