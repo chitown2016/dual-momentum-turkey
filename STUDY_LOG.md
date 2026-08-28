@@ -290,6 +290,13 @@ ex ante; no result-driven edits.
   read-aloud + tax paragraph sign-off. On future pushes: re-copy study README
   to public_repo/STUDY_LOG.md first.
 
+- 2026-08-28 — Notebook headers gained a Terminology block (Version A/B, A-B
+  gap, B1-B6 defined inline with SPEC pointer) after author found the taxonomy
+  undefined for repo visitors entering via a notebook; markdown-cell edit only,
+  outputs untouched; pushed (f107059). Earlier same session: engine hatch
+  docstring clarified re SPEC 2-vs-4 signal-currency wording, rebased over
+  user's MIT license commit and pushed.
+
 ## Verdict
 
 (open)
