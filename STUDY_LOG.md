@@ -283,6 +283,13 @@ ex ante; no result-driven edits.
   closing purchasing-power line unpacked, strategy walkthrough expanded, menu
   metaphor removed, orthodox jargon removed, deposit sentence simplified.
 
+- 2026-08-26 — **Public repo LIVE**: github.com/chitown2016/dual-momentum-turkey
+  (initial commit pushed from public_repo/, STUDY_LOG refreshed at commit time).
+  Essay's four repository references now link to it. Remaining before
+  publication: venue choice, CPI-refresh timing call (~Sep 3 print), author
+  read-aloud + tax paragraph sign-off. On future pushes: re-copy study README
+  to public_repo/STUDY_LOG.md first.
+
 ## Verdict
 
 (open)
