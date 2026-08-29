@@ -307,6 +307,14 @@ ex ante; no result-driven edits.
   position-based cell targeting (cells[-1]) is no longer safe on these
   notebooks; target by content. Re-executed, pushed.
 
+- 2026-08-29 — Notebook interpretations REWRITTEN (author: "rewrite the
+  history; too verbose") — phase1 + phase2 summary cells replaced with concise
+  post-audit versions (~1/3 length): significance audit now reflected, regime-
+  level A-B gap point estimates no longer narrated as findings, orthodox-
+  failure mechanics kept with pointer to hurdle variant, stale "exactly the
+  pattern predicted" framing removed. Session history remains here in the log;
+  summary cells are current-best-statement only. Pushed (77db248).
+
 ## Verdict
 
 (open)
