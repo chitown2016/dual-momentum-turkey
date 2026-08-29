@@ -359,4 +359,22 @@ ex ante; no result-driven edits.
 
 ## Verdict
 
-(open)
+**CONCLUDED 2026-08-29 — question answered, essay published.** Dual momentum on
+the Turkish saver's universe protected and grew purchasing power: 4.7x real TL
+net of costs 2013->2026 (11.7%/yr, Sharpe 0.61) vs 1.1-1.6x for everything
+savers actually do; beats rolling deposits +11.6%/yr (t 2.4) and holding
+dollars +7.9 (t 2.2). NOT proven: selection vs equal-weight (+2.7, t 1.1), vs
+gold alone (+2.3, t 0.5). The A-B gap — the spec's key product output — is
+UNANSWERABLE from one country (variants correlate 0.962); needs cross-country
+pooling. Structural finding: N=3 caps any sleeve at 1/3, so the carry regime
+was captured only partially (deposits pinned at 33% all 161 orthodox weeks,
+~0 real vs +18%/yr for deposits alone); the zero hurdle is inflation-blind;
+Antonacci risk-free hurdle (labeled post-hoc variant) repairs about half and
+is the rule for any personal implementation. Essay:
+https://miktul.substack.com/p/dual-momentum-for-a-collapsing-currency
+Repo (permanent record): https://github.com/chitown2016/dual-momentum-turkey
+Wiki: [[turkish-saver-dual-momentum]], [[ab-gap-unmeasurable-one-country]],
+[[n3-momentum-cannot-concentrate]], [[nominal-tl-vol-scaling-trap]],
+decision [[dual-momentum-turkey-concluded]]. Caches deleted at conclusion
+(all regenerable: yfinance + EVDS via .env key). Turkish essay version and
+country siblings: unscheduled.
