@@ -5,7 +5,7 @@ Currency: what rules-based allocation would have done for a Turkish saver,
 2013–2026"](https://miktul.substack.com/p/dual-momentum-for-a-collapsing-currency)** (published 2026-08-29).
 
 A weekly dual-momentum strategy (Antonacci-style relative ranking + absolute
-filter, per Quantpedia's May 2026 "Active Dual Momentum GTAA") applied to the
+filter, per Quantpedia's May 2026 ["Active Dual Momentum GTAA"](https://quantpedia.com/active-dual-momentum-gtaa-strategy/)) applied to the
 assets a Turkish retail investor can actually hold — ten USD ETFs plus rolled
 TL time deposits and the BIST-100 total-return index — with all results
 reported in three numeraires: nominal TL, **CPI-deflated real TL (headline)**,
