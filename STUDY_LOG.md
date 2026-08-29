@@ -315,6 +315,16 @@ ex ante; no result-driven edits.
   pattern predicted" framing removed. Session history remains here in the log;
   summary cells are current-best-statement only. Pushed (77db248).
 
+- 2026-08-29 — **PUBLISHED**: https://miktul.substack.com/p/dual-momentum-for-a-collapsing-currency
+  (Substack, public, comments open to everyone, endnote-style notes; live page
+  verified). SPEC definition of done MET, ~1 week elapsed vs 3 budgeted.
+  INCIDENT during link backfill: repo README.md had been silently DELETED from
+  GitHub — the 08-28 terminology sync cp/mv clobbered it and 08-29's `git add
+  -A` committed the deletion; restored from initial commit d4c91ce + essay link
+  added. Lesson: never route the study-README->STUDY_LOG copy through the repo
+  README's filename; sync script needed. Remaining: distribution, then study
+  conclusion (ask before archive).
+
 ## Verdict
 
 (open)
