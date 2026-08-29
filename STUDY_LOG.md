@@ -325,6 +325,38 @@ ex ante; no result-driven edits.
   README's filename; sync script needed. Remaining: distribution, then study
   conclusion (ask before archive).
 
+- 2026-08-29 — **Authorship disclosure added** (author flagged AI-detection
+  concern pre-Quantocracy; repo SPEC already publicly said "Implementing agent:
+  Claude Code" so essay/repo were asymmetric). One-paragraph note added to
+  essay Notes (essay_draft.md) + one line in repo README (pushed); user to
+  paste the note into the live Substack post. Detector-evasion rewriting
+  declined on principle; disclosure chosen as consistent with the piece's
+  transparency ethos.
+
+- 2026-08-29 — **Attribution record.** Added when the essay's authorship note
+  began pointing readers at this log: earlier entries record several analytical
+  turns in passive voice, under-crediting the author. Principal contributions
+  of MT (author/PI), beyond the locked SPEC (design, universe, rules, phase
+  plan, essay skeleton):
+  - Proposed the risk-free momentum hurdle ("we should have compared to
+    deposit returns", 08-24) -> the phase-3 robustness variant; then falsified
+    the implementing agent's claim that the two-way hatch collapses under it
+    ("maybe SHY is passing the filter"), confirmed by the decoupled-lookback
+    test.
+  - Objected that deposit "low volatility" was a numeraire artifact -> the
+    numeraire-dependence finding and the discovery that vol-scaling the signal
+    is catastrophic (killing a proposed "fix").
+  - Challenged the regime-gap narration ("is it?", 08-24) -> the significance
+    audit that demoted all regime-level A-B claims to noise.
+  - Asked the orthodox-failure question -> the 33%-ceiling decomposition; the
+    mattress-dollars realism point on B2; the flow-vs-stock deposit-series
+    identification; spotted gold missing from fig2 (exposing a stale number);
+    caught the unbacked EM-gate claim.
+  - All editorial direction, publication decisions, EVDS registration, MIT
+    license, and the authorship-disclosure decision.
+  The implementing agent (Claude Code) built the engine, data layer, backtests,
+  diagnostics, figures, drafts, and this log.
+
 ## Verdict
 
 (open)
