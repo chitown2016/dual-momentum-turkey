@@ -297,6 +297,16 @@ ex ante; no result-driven edits.
   docstring clarified re SPEC 2-vs-4 signal-currency wording, rebased over
   user's MIT license commit and pushed.
 
+- 2026-08-28 — Author caught an UNBACKED claim in the phase1 notebook ("EM gate
+  active as designed" — nothing measured it; blend weights cannot show bindings
+  since the two legs can hold MCHI and INDA separately). Added a diagnostic
+  cell: ungated top-3 contains both MCHI+INDA in 7.6% (10w) / 9.8% (25w) of
+  weeks, clustered 2014/2017/2020 — the gate genuinely binds. Interpretation
+  sentence now cites the measurement. Incidental find: notebook has a trailing
+  empty markdown cell (likely from a Jupyter open/save) — left alone, but
+  position-based cell targeting (cells[-1]) is no longer safe on these
+  notebooks; target by content. Re-executed, pushed.
+
 ## Verdict
 
 (open)
