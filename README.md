@@ -69,3 +69,5 @@ Real-TL results end at the last published CPI month.
 - US ETF prices: Yahoo Finance dividend-adjusted closes.
 
 Nothing here is investment or tax advice.
+
+Built in collaboration with an AI assistant (Claude Code) under the author's direction; `STUDY_LOG.md` records who did what.
